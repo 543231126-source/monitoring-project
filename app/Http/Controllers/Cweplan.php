@@ -16,4 +16,3 @@ class Cweplan extends Controller
         return view('weplan', compact('data'));
     }
 }
-
